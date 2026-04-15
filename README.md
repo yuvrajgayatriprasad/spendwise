@@ -1,1 +1,1 @@
-# spendwise
+# spendwise a expense trarcker
